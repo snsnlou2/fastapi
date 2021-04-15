@@ -15,3 +15,4 @@ log.txt
 Pipfile.lock
 env3.*
 docs_build
+root_key
