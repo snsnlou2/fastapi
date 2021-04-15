@@ -21,3 +21,4 @@ venv
 # vim temporary files
 *~
 .*.sw?
+root_key
